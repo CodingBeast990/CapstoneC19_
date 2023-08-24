@@ -40,8 +40,7 @@ function setup() {
 }
 
 function draw() {
-    background(0);  
-    guard.debug= true; 
+    background(0);   
 
     if(gameState === "play"){
         
